@@ -1,0 +1,9 @@
+{
+    "TOTAL_MEMORY": 268435456,
+    "dataUrl": "flappy-sports.data.unityweb",
+    "asmCodeUrl": "flappy-sports.asm.code.unityweb",
+    "asmMemoryUrl": "flappy-sports.asm.memory.unityweb",
+    "asmFrameworkUrl": "flappy-sports.asm.framework.unityweb",
+    "splashScreenStyle": "Dark",
+    "backgroundColor": "#231F20"
+}
